@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4e9e021-5b1c-4667-9d59-c4a1c6e272c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Owner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Lynda.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Lynda.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Become a Python Developer/Programming Foundations Algorithms/common_data_structures.py" beforeDir="false" afterPath="$PROJECT_DIR$/Become a Python Developer/Programming Foundations Algorithms/common_data_structures.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.recursion_example_2">
+  <component name="RunManager" selected="Python.find_max_example">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Lynda" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -63,7 +65,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hash_table_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="filter_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Lynda" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,7 +77,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Become a Python Developer/Programming Foundations Algorithms/hash_table_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Become a Python Developer/Programming Foundations Algorithms/filter_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="queue_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="find_max_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Lynda" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,7 +98,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Become a Python Developer/Programming Foundations Algorithms/queue_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Become a Python Developer/Programming Foundations Algorithms/find_max_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="recursion_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="is_sorted_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Lynda" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,7 +119,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Become a Python Developer/Programming Foundations Algorithms/recursion_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Become a Python Developer/Programming Foundations Algorithms/is_sorted_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="recursion_example_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="order_list_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Lynda" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,7 +140,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Become a Python Developer/Programming Foundations Algorithms/recursion_example_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Become a Python Developer/Programming Foundations Algorithms/order_list_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +149,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="stack_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="value_counter_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Lynda" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,7 +161,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Become a Python Developer/Programming Foundations Algorithms/stack_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Become a Python Developer/Programming Foundations Algorithms/value_counter_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.recursion_example_2" />
-        <item itemvalue="Python.recursion_example" />
-        <item itemvalue="Python.hash_table_example" />
-        <item itemvalue="Python.queue_example" />
-        <item itemvalue="Python.stack_example" />
+        <item itemvalue="Python.find_max_example" />
+        <item itemvalue="Python.value_counter_example" />
+        <item itemvalue="Python.filter_example" />
+        <item itemvalue="Python.is_sorted_example" />
+        <item itemvalue="Python.order_list_example" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +198,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
