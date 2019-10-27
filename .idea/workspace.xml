@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4e9e021-5b1c-4667-9d59-c4a1c6e272c6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Become a Python Developer/unordered_sort_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/Become a Python Developer/Programming Foundations Algorithms/unordered_sort_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +25,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Owner\version-control\Lynda\Become a Python Developer\Programming Foundations Algorithms" />
+      <recent name="C:\Users\Owner\version-control\Lynda\Become a Python Developer" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
